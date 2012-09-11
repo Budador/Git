@@ -4,5 +4,5 @@ To see if it notices the change
 
 using namespace std;
 	int main(){
-		cout << "Hello World\n";
+		cout << "Thank You\n";
 	}
