@@ -1,13 +1,8 @@
 To see if it notices the change
 
-Test
-Est
-TEST
-TEST
-LAWL
-LAWL
+include #iostream;
 
-TEST
-TEST
-TEST
-TEST
+using namespace std;
+	int main(){
+		cout << "Hello World\n";
+	}
